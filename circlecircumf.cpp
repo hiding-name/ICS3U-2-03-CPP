@@ -20,5 +20,5 @@ int main() {
     circumference = TAU * radius;
 
     // output
-    std::cout << "The circumference is " << circumference << " units." << std::endl;
+    std::cout << "Circumference: " << circumference << " units" << std::endl;
 }
